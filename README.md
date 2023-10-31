@@ -19,6 +19,7 @@ Enable users to answer questions and receive instant feedback.
 
 ![image](https://github.com/pmsolanki23/MAD_Assignment-2_21012011142/assets/139521191/280931d2-70ab-4202-aea9-c607912f629f)
 
-![image](https://github.com/pmsolanki23/MAD_Assignment-2_21012011142/assets/139521191/f1705b87-1d4b-4aeb-8cbb-3a091f2c52c0)
+![image](https://github.com/pmsolanki23/MAD_Assignment-2_21012011142/assets/139521191/437d88cd-5764-4d6d-80f5-d685ab932620)
+
 
 
